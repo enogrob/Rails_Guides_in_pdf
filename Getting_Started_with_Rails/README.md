@@ -24,9 +24,9 @@ Table of Contents
 [x] Say "Hello", Rails
 [x] Setting the Application Home Page
 5. Getting Up and Running
-[ ] Laying down the groundwork
-[ ] The first form
-[ ] Creating articles
+[x] Laying down the groundwork
+[x] The first form
+[x] Creating articles
 [ ] Creating the Article model
 [ ] Running a Migration
 [ ] Saving data in the controller
