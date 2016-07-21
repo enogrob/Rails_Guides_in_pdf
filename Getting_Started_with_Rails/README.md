@@ -27,8 +27,8 @@ Table of Contents
 [x] Laying down the groundwork
 [x] The first form
 [x] Creating articles
-[ ] Creating the Article model
-[ ] Running a Migration
+[x] Creating the Article model
+[x] Running a Migration
 [ ] Saving data in the controller
 [ ] Showing Articles
 [ ] Guides Index
